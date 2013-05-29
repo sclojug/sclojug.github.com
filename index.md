@@ -1,10 +1,10 @@
 ---
-title: This will be used as the title-tag of the page head
+layout: default
+title: Stockholm Clojure User Group
 ---
 
-# This is a H1
+<img src="images/logo_2.png" alt="Sclojug Logo" style="width: 300px;"/>
 
-[the clickable text](http://xlson.com/)
-
-* Bullet lists are also easy to create
-* One more
+Get in contact:
+* [Meetup](http://www.meetup.com/sthlm-clj/)
+* [Google Groups](https://groups.google.com/forum/?fromgroups#!forum/stockholm-clojure-user-group)
