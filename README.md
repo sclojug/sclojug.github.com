@@ -1,5 +1,6 @@
 ![Stockholm Clojure User Group](./images/logo_1.png "Stockholm Clojure User Group")
-![Slack](http://sthml-clj-slack.herokuapp.com/badge.svg "Slack")
+
+![Slack](http://sthlm-clj-slack.herokuapp.com/badge.svg "Slack")
 
 # Find us:
 * [Github](http://github.com/sclojug/)
